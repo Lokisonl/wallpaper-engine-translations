@@ -158,10 +158,10 @@
 	"ui_settings_gfx_antialiasing" : "抗锯齿:",
 	"ui_settings_gfx_resolution" : "分辨率:",
 	"ui_settings_gfx_fps" : "帧数:",
-	"ui_settings_gfx_reflections" : "映像:",
-	"ui_settings_gfx_post_processing" : "后处理:",
-	"ui_settings_gfx_fps_warning" : "更高的 FPS 可能会降低电脑的运行速度！",
-
+	"ui_settings_gfx_reflections" : "反射:",
+	"ui_settings_gfx_post_processing" : "后期处理:",
+	"ui_settings_gfx_fps_warning" : "更高的 帧数 可能会降低电脑的运行速度！",
+	
 	"ui_settings_performance" :  "性能",
 	"ui_settings_general" : "综合",
 	"ui_settings_miscellaneous" : "杂项",
@@ -169,7 +169,7 @@
 	"ui_settings_ui_language" : "界面语言:",
 	"ui_settings_ui_skin" : "界面皮肤:",
 	"ui_settings_icon_opacity" : "桌面图标不透明度:",
-	"ui_settings_recording_volume" : "输入音量:",
+	"ui_settings_recording_volume" : "输入音量大小（可视化音频幅度）:",
 	"ui_settings_audio_input_device" : "声音输入:",
 	"ui_settings_audio_input_device_default" : "默认",
 	"ui_settings_adjust_windows_color" : "修改 Windows 配色:",
@@ -181,9 +181,14 @@
 	"ui_settings_register_service" : "设置管理员权限",
 	"ui_settings_advanced" : "高级选项",
 	"ui_settings_reset_advanced" : "重置到默认状态",
+        "ui_settings_process_priority" : "进程优先级",
+        "ui_settings_process_priority_normal" : "正常",
+        "ui_settings_process_priority_below_normal" : "低于正常",
 	"ui_settings_advanced_graphics_api" : "图形驱动:",
 	"ui_settings_advanced_video_read" : "视频缓存位置:",
 	"ui_settings_advanced_video_loop" : "视频循环:",
+	"ui_settings_video_audio_label" : "视频音频开关",
+	"ui_settings_video_hardware_acceleration_label" : "视频硬件加速",
 	"ui_settings_advanced_log_level" : "日志记录:",
 	"ui_settings_about" : "关于",
 	
@@ -210,12 +215,7 @@
 	"ui_settings_advanced_reset_config_button" : "重置",
 	"ui_settings_advanced_reset_config_modal_header" : "确认重置",
 	"ui_settings_advanced_reset_config_modal_body" : "所有设置将被删除，应用程序将重启",
-	"ui_settings_video_audio_label" : "视频音频输出",
-	"ui_settings_video_hardware_acceleration_label" : "硬件视频加速",
-	"ui_settings_process_priority" : "进程优先级",
-	"ui_settings_process_priority_normal" : "正常",
-	"ui_settings_process_priority_below_normal" : "低于正常",
-	
+				
 	"ui_settings_copyright" : "保留所有权利",
 	"ui_settings_thirdparty" : "第三方许可",
 	
